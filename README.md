@@ -21,5 +21,5 @@ Also known as **kirtansec**
 - Coming soon
 
 ### 🌐 Connect with me
-- Twitter / X: https://x.com/kirtansec
+- Twitter / X: https://x.com/kirtansec7
 - HackerOne: https://hackerone.com/kirtansec
